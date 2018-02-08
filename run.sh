@@ -1,0 +1,1 @@
+/root/spark/bin/spark-submit run.py "$1" "$2" "$3" "$4" "$5" "$6"
